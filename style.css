@@ -39,6 +39,10 @@
     margin: -20;
   }
 
+  .main-header .title p{
+    font-size: 1.2em;
+  }
+
   .main-header .title{
     margin: 10px;
   }
@@ -64,6 +68,11 @@
     font-size: 45px;
     text-align: center;
   }
+
+  .wedding h2{
+    margin-bottom: 10px;
+  }
+
   .wedding,
   .reception1,
   .reception2 {
@@ -101,6 +110,12 @@
     max-width: 100%;
     margin: 0 auto 5px auto;
   }
+
+  .title h2{
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
+
   @media (max-width: 768px) {
 
     .title img {
